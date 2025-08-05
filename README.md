@@ -58,16 +58,6 @@ This project demonstrates a complete image classification workflow focused on co
 
 ---
 
-## Final Results
-
-After training, the model was evaluated on the test dataset with the following results:
-
-- **Loss:** approximately `0.22`  
-- **Accuracy:** approximately `94.6%`
-
-These results indicate that the MobileNetV3 Small architecture, combined with proper preprocessing and callback strategies, was able to achieve high accuracy even in a constrained computing environment with limited data.
-
----
 
 ## Libraries Used
 
