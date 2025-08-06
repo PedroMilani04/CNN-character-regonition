@@ -1,5 +1,5 @@
 # Image Classification with MobileNetV3 and TensorFlow
-# # Collaborators: PedroMilani04, Gotoxico and KAUAN-LOCHE
+## Collaborators: PedroMilani04, Gotoxico and KAUAN-LOCHE
 This repository contains solutions and practical experimentation for an **image classification pipeline** using deep learning with **MobileNetV3** in TensorFlow. The project focuses on training a lightweight and efficient CNN to recognize visual characters, applying best practices in preprocessing, model architecture, resource monitoring, and evaluation using a confusion matrix.
 
 ---
